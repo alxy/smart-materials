@@ -3,6 +3,9 @@
 ----------
 
 - **Einleitung**
+- Motivation
+- Ziel der Arbeit
+- Aufbau der Arbeit
 - **Theorie**
  - Photochromie
  - Eigenschaften von Spirophyran
