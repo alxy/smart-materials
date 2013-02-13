@@ -15,8 +15,7 @@
  - Fehleranalyse
  - Deutung
  - Optimierung
-- **Anwendung im Alltag**
- - Beispiele
+- **Anwendung**
  - Optischer Datenspeicher
   	 - Theorie
 	 - Probleme
